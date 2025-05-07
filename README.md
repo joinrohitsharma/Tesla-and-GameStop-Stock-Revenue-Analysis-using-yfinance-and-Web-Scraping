@@ -22,3 +22,14 @@ Create a similar interactive dashboard for GameStop showing both stock price and
 
 Question 7 - Sharing your Assignment Notebook
 Upload your complete Jupyter Notebook with the code and visualizations to GitHub, and share the link to your assignment.
+
+
+
+**Requirements:**
+To run this project, you'll need the following Python libraries:
+- yfinance
+- requests
+- BeautifulSoup4
+- pandas
+- plotly
+
