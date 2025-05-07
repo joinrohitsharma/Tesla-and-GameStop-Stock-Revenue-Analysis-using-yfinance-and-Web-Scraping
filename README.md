@@ -1,6 +1,7 @@
 This project provides a series of data extractions and visualizations for Tesla and GameStop stock data and their respective quarterly revenues. The goal of this project is to extract and analyze stock price and revenue data over time, and visualize it in an interactive dashboard.
 
 **Project Breakdown:**
+
 Question 1 - Extracting Tesla Stock Data Using yfinance
 Extract historical stock data for Tesla using the yfinance library. The stock data includes information on opening price, closing price, high/low prices, and volume.
 
